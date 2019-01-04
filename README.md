@@ -1,5 +1,5 @@
 # ML-Ethnicity-Detection
-Establish the Ethnicity/nationality of person by just looking at his facial image, if the image is a group photo then extract image of each individual and then classify.
+Establish the Ethnicity/nationality of person by just looking at his facial image, if the image is a group photo then extract image of each individual and then classify. Full report : https://github.com/AnkurVineet/ML-Ethnicity-Detection/blob/master/MLReport.pdf
 # Requirements
 For performing only prediction directly jump to Step 3.
 1. (Preprocessing) UTK Face Dataset - Aligned and cropped faces : https://susanqq.github.io/UTKFace/ for performing Preprocessing part (Can be skipped)
