@@ -16,3 +16,7 @@ b) landmark file available at:<br> https://drive.google.com/file/d/1uPuhpCMK9wkz
 2) SVM_PCA_NO_PCA.ipynb contains only the training part of SVM and KNN.
 3) Prediction.ipynb contains the final outcome of the project in which image is given as input and the output is expected race of the faces detected from the image. 
 # Output
+1) Image contains three faces of three different races the extracted faces and expected race can be seen in the output.
+<img alt="Image 1" src = "group.jpg" width="1380" height="860">
+2) Generally it also works fine with grayscale images as ethnicity is not fully dependent on skin colour.
+<img alt="Image 2" src = "grayscale.jpg" width="800" height="860">
