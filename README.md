@@ -11,3 +11,8 @@ a) The model which is available at:<br> https://drive.google.com/file/d/1ov2sveb
 3. (Prediction) For prediction we need <br>
 a) Above trained model available at:<br> https://drive.google.com/file/d/1ov2svebfW2gD_qg-Xzvkjjy-_LoSR3Wx/view?usp=sharing <br>
 b) landmark file available at:<br> https://drive.google.com/file/d/1uPuhpCMK9wkzNopUXrbMmzdo6ZxsQd33/view?usp=sharing <br>
+# Files
+1) ConvNet.ipynb contains the preprocessing part and training part of CNN.
+2) SVM_PCA_NO_PCA.ipynb contains only the training part of SVM and KNN.
+3) Prediction.ipynb contains the final outcome of the project in which image is given as input and the output is expected race of the faces detected from the image. 
+# Output
